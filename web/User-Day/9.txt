@@ -1,0 +1,8 @@
+{"trajectory_day":"0","lat":"22.316749","lon":"87.295322","time_duration":"120","place_info":"Dr. B. R. Ambedkar Hall of Residence,Hall","place_type":["Dr. B. R. Ambedkar Hall of Residence,Hall"]}
+{"trajectory_day":"0","lat":"22.316974","lon":"87.295099","time_duration":"120","place_info":"Dr. B. R. Ambedkar Hall of Residence,Hall","place_type":["Dr. B. R. Ambedkar Hall of Residence,Hall"]}
+{"trajectory_day":"0","lat":"22.317273","lon":"87.312056","time_duration":"120","place_info":"Takshashila","place_type":["Takshashila"]}
+{"trajectory_day":"0","lat":"22.317194","lon":"87.312054","time_duration":"120","place_info":"Takshashila","place_type":["Takshashila"]}
+{"trajectory_day":"0","lat":"22.317168","lon":"87.312035","time_duration":"120","place_info":"School of Information Technology","place_type":["School of Information Technology"]}
+{"trajectory_day":"0","lat":"22.316974","lon":"87.295099","time_duration":"120","place_info":"Dr. B. R. Ambedkar Hall of Residence,Hall","place_type":["Dr. B. R. Ambedkar Hall of Residence,Hall"]}
+{"trajectory_day":"0","lat":"22.316749","lon":"87.295322","time_duration":"120","place_info":"Dr. B. R. Ambedkar Hall of Residence,Hall","place_type":["Dr. B. R. Ambedkar Hall of Residence,Hall"]}
+{"trajectory_day":"0","lat":"22.316749","lon":"87.295322","time_duration":"120","place_info":"Dr. B. R. Ambedkar Hall of Residence,Hall","place_type":["Dr. B. R. Ambedkar Hall of Residence,Hall"]}

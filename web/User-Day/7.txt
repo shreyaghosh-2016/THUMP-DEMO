@@ -1,0 +1,16 @@
+{"trajectory_day":"0","lat":"22.3141128","lon":"87.3087022","time_duration":"120","place_info":"B:190-198,Apartment","place_type":["B:190-198,Apartment"]}
+{"trajectory_day":"0","lat":"22.317208","lon":"87.312023","time_duration":"120","place_info":"Takshashila,"place_type":["Takshashila"]}
+{"trajectory_day":"0","lat":"22.317256","lon":"87.312017","time_duration":"120","place_info":"School of Information Technology","place_type":["School of Information Technology"]}
+{"trajectory_day":"0","lat":"22.317219","lon":"87.312030","time_duration":"120","place_info":"School of Information Technology","place_type":["School of Information Technology"]}
+{"trajectory_day":"0","lat":"22.317208","lon":"87.312023","time_duration":"120","place_info":"Takshashila,"place_type":["Takshashila"]}
+{"trajectory_day":"0","lat":"22.317256","lon":"87.312017","time_duration":"120","place_info":"School of Information Technology","place_type":["School of Information Technology"]}
+{"trajectory_day":"0","lat":"22.316142","lon":"87.316973","time_duration":"120","place_info":"Nalanda Classroom Complex, Academics","place_type":["Nalanda Classroom Complex, Academics"]}
+{"trajectory_day":"0","lat":"22.315952","lon":"87.316238","time_duration":"120","place_info":"Nalanda Classroom Complex, Academics","place_type":["Nalanda Classroom Complex, Academics"]}
+{"trajectory_day":"0","lat":"22.3141128","lon":"87.3087022","time_duration":"120","place_info":"B:190-198,Apartment","place_type":["B:190-198,Apartment"]}
+{"trajectory_day":"0","lat":"22.317208","lon":"87.312023","time_duration":"120","place_info":"Takshashila,"place_type":["Takshashila"]}
+{"trajectory_day":"0","lat":"22.317235","lon":"87.312080","time_duration":"120","place_info":"School of Information Technology","place_type":["School of Information Technology"]}
+{"trajectory_day":"0","lat":"22.3141128","lon":"87.3087022","time_duration":"120","place_info":"B:190-198,Apartment","place_type":["B:190-198,Apartment"]}
+{"trajectory_day":"0","lat":"22.314564","lon":"87.300215","time_duration":"120","place_info":"Tech Market,Shop","place_type":["Tech Market,Shop"]}
+{"trajectory_day":"0","lat":"22.314658","lon":"87.300517","time_duration":"120","place_info":"Tech Market,Shop","place_type":["Tech Market,Shop"]}
+{"trajectory_day":"0","lat":"22.314564","lon":"87.299396","time_duration":"120","place_info":"Tech Market,Shop","place_type":["Tech Market,Shop"]}
+{"trajectory_day":"0","lat":"22.3141128","lon":"87.3087022","time_duration":"120","place_info":"B:190-198,Apartment","place_type":["B:190-198,Apartment"]}

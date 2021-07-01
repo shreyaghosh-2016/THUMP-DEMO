@@ -1,0 +1,3 @@
+{"trajectory_day":"0","lat":"22.314442","lon":"87.300145","time_duration":"120","place_info":"Students' Corner, Shop","place_type":["Students Corner, Shop"]}
+{"trajectory_day":"0","lat":"22.314052","lon":"87.299317","time_duration":"120","place_info":"Cold Roll Ice Cream, Food","place_type":["Cold Roll Ice Cream, Food"]}
+{"trajectory_day":"0","lat":"22.316749","lon":"87.295322","time_duration":"120","place_info":"Dr. B. R. Ambedkar Hall of Residence,Hall","place_type":["Dr. B. R. Ambedkar Hall of Residence,Hall"]}

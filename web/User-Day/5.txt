@@ -1,0 +1,11 @@
+{"trajectory_day":"0","lat":"22.309511","lon":"87.309803","time_duration":"120","place_info":"Vikram Sarabhai Residencial Complex,Hall","place_type":["Vikram Sarabhai Residencial Complex,Hall"]}
+{"trajectory_day":"0","lat":"22.309422","lon":"87.309524","time_duration":"120","place_info":"Vikram Sarabhai Residencial Complex,Hall","place_type":["Vikram Sarabhai Residencial Complex,Hall"]}
+{"trajectory_day":"0","lat":"22.317642","lon":"87.309093","time_duration":"120","place_info":"Department of Computer Science and Engineering","place_type":["Department of Computer Science and Engineering"]}
+{"trajectory_day":"0","lat":"22.318204","lon":"87.309023","time_duration":"120","place_info":"Student Hangout Spot, Food","place_type":["Student Hangout Spot, Food"]}
+{"trajectory_day":"0","lat":"22.317642","lon":"87.309093","time_duration":"120","place_info":"Department of Computer Science and Engineering","place_type":["Department of Computer Science and Engineering"]}
+{"trajectory_day":"0","lat":"22.3094846","lon":"87.3108285","time_duration":"120","place_info":"Vikram Sarabhai Residencial Complex,Hall","place_type":["Vikram Sarabhai Residencial Complex,Hall"]}
+{"trajectory_day":"0","lat":"22.317642","lon":"87.309093","time_duration":"120","place_info":"Department of Computer Science and Engineering","place_type":["Department of Computer Science and Engineering"]}
+{"trajectory_day":"0","lat":"22.317642","lon":"87.309093","time_duration":"120","place_info":"Department of Computer Science and Engineering","place_type":["Department of Computer Science and Engineering"]}
+{"trajectory_day":"0","lat":"22.319292","lon":"87.305843","time_duration":"120","place_info":"Cafe Coffee Day","place_type":["Cafe Coffee Day, Food"]}
+{"trajectory_day":"0","lat":"22.319297","lon":"87.305803","time_duration":"120","place_info":"Cafe Coffee Day","place_type":["Cafe Coffee Day, Food"]}
+{"trajectory_day":"0","lat":"22.3094846","lon":"87.3108285","time_duration":"120","place_info":"Vikram Sarabhai Residencial Complex,Hall","place_type":["Vikram Sarabhai Residencial Complex,Hall"]}

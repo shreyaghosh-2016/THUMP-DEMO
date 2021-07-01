@@ -1,0 +1,77 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 22, 2016, 8:11:14 PM
+    Author     : Abhisek Chowdhury
+*/
+
+ html, body, #map {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    background: #d9d9d9;
+}
+
+#cpane{
+    float: right; 
+    width: 20%; 
+    margin-right: 15px; 
+    margin-top: 20px; 
+    margin-left: 5px;
+    
+}
+
+
+#rightpanel{
+    float: right; 
+    width: 20%; 
+    margin-right: 5px; 
+    margin-top: 20px; 
+    margin-left: 5px;
+    
+}
+
+#dvMap{
+    width: 75%; 
+    height: 80%; 
+    float: left; 
+    margin: 20px
+}
+
+#header{
+    position: relative; 
+    top: 0px; 
+    width: 100%;
+    margin-top: -22px;
+    height: 85px;
+}
+
+#div1{
+    visibility: hidden; 
+    vertical-align: top; 
+    float:top; 
+    position:absolute; 
+}
+
+#div2{
+    visibility: hidden; 
+    vertical-align: 
+    top; float:top; 
+    position:absolute;
+}
+
+#div3{
+    visibility: hidden; 
+    vertical-align: top; 
+    float:top; 
+    position:absolute;  
+    margin-top: -25px;
+}
+
+
+
+

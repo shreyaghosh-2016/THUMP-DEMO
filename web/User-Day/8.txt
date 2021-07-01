@@ -1,0 +1,10 @@
+{"trajectory_day":"0","lat":"39.997904","lon":"116.321897","time_duration":"120","place_info":"Tsinghua University Apartment 5","place_type":["Apartment"]}
+{"trajectory_day":"0","lat":"39.999886","lon":"116.323743","time_duration":"120","place_info":"Tsinghua University High Building","place_type":["University"]}
+{"trajectory_day":"0","lat":"39.999368","lon":"116.323260","time_duration":"120","place_info":"Tsinghua University Zhonglou 4","place_type":["University"]}
+{"trajectory_day":"0","lat":"39.999078","lon":"116.326354","time_duration":"120","place_info":"Tsinghua University East Tower 7","place_type":["University"]}
+{"trajectory_day":"0","lat":"39.998445","lon":"116.325253","time_duration":"120","place_info":"Food","place_type":["Food"]}
+{"trajectory_day":"0","lat":"39.998285","lon":"116.330561","time_duration":"120","place_info":"Tsinghua University Laboratory","place_type":["Tsinghua University Laboratory, Academics"]}
+{"trajectory_day":"0","lat":"39.997281","lon":"116.325533","time_duration":"120","place_info":"Tsinghua University Xillin Building 2","place_type":["University"]}
+{"trajectory_day":"0","lat":"39.997263","lon":"116.322668","time_duration":"120","place_info":"Tsinghua University Building","place_type":["University"]}
+{"trajectory_day":"0","lat":"39.994839","lon":"116.329397","time_duration":"120","place_info":"Tsinghua University south Gate","place_type":["Tsinghua University south Gate, University"]}
+{"trajectory_day":"0","lat":"39.997904","lon":"116.321897","time_duration":"120","place_info":"Tsinghua University Apartment 5","place_type":["Apartment"]}

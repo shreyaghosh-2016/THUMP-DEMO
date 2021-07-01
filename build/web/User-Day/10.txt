@@ -1,0 +1,7 @@
+{"trajectory_day":"0","lat":"39.98615","lon":"116.347133333333","time_duration":"0","place_info":"a艾瑟顿国际公寓地下停车z1.0","place_type":["Hall","point_of_interest","establishment"],"time":"00:03:41","date":"2007-07-2"}
+{"trajectory_day":"0","lat":"39.9654666666667","lon":"116.34745","time_duration":"0","place_info":"a金麦香西饼面包z1.1","place_type":["parking","point_of_interest","establishment"],"time":"00:09:44","date":"2007-07-2"}
+{"trajectory_day":"0","lat":"39.96425","lon":"116.3469","time_duration":"0","place_info":"a万泉河路62好院6号z2","place_type":["University" ,"establishment"],"time":"00:10:07","date":"2007-07-2"}
+{"trajectory_day":"0","lat":"39.9592666666667","lon":"116.347183333333","time_duration":"0","place_info":"a万泉河路62好院6号z3","place_type":["Academic","University","establishment"],"time":"00:12:28","date":"2007-07-2"}
+{"trajectory_day":"0","lat":"39.9568333333333","lon":"116.348316666667","time_duration":"0","place_info":"a金麦香西饼面包z4","place_type":["University","establishment"],"time":"00:13:03","date":"2007-07-2"}
+{"trajectory_day":"0","lat":"39.9555","lon":"116.348633333333","time_duration":"0","place_info":"a金麦香西饼面包z5","place_type":["Food","establishment"],"time":"00:14:31","date":"2007-07-2"}
+{"trajectory_day":"0","lat":"39.98615","lon":"116.347133333333","time_duration":"0","place_info":"a艾瑟顿国际公寓地下停车z1.0","place_type":["Hall","point_of_interest","establishment"],"time":"00:03:41","date":"2007-07-2"}

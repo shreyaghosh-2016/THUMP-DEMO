@@ -1,0 +1,11 @@
+{"trajectory_day":"0","lat":"22.316749","lon":"87.295322","time_duration":"120","place_info":"Dr. B. R. Ambedkar Hall of Residence,Hall","place_type":["Dr. B. R. Ambedkar Hall of Residence,Hall"]}
+{"trajectory_day":"0","lat":"22.316974","lon":"87.295099","time_duration":"120","place_info":"Dr. B. R. Ambedkar Hall of Residence,Hall","place_type":["Dr. B. R. Ambedkar Hall of Residence,Hall"]}
+{"trajectory_day":"0","lat":"22.317273","lon":"87.312056","time_duration":"120","place_info":"Takshashila","place_type":["Takshashila"]}
+{"trajectory_day":"0","lat":"22.317194","lon":"87.312054","time_duration":"120","place_info":"Takshashila","place_type":["Takshashila"]}
+{"trajectory_day":"0","lat":"22.317208","lon":"87.312099","time_duration":"120","place_info":"Advanced VLSI Lab, Academics","place_type":["Advanced VLSI Lab, Academics"]}
+{"trajectory_day":"0","lat":"22.316749","lon":"87.295322","time_duration":"120","place_info":"Dr. B. R. Ambedkar Hall of Residence,Hall","place_type":["Dr. B. R. Ambedkar Hall of Residence,Hall"]}
+{"trajectory_day":"0","lat":"22.317228","lon":"87.312056","time_duration":"120","place_info":"Takshashila","place_type":["Takshashila"]}
+{"trajectory_day":"0","lat":"22.316593","lon":"87.312252","time_duration":"120","place_info":"Lavaza,Food","place_type":["Lavaza,Food"]}
+{"trajectory_day":"0","lat":"22.316593","lon":"87.312252","time_duration":"120","place_info":"Lavaza,Food","place_type":["Lavaza,Food"]}
+{"trajectory_day":"0","lat":"22.317248","lon":"87.312150","time_duration":"120","place_info":"Takshashila","place_type":["Takshashila"]}
+{"trajectory_day":"0","lat":"22.316749","lon":"87.295322","time_duration":"120","place_info":"Dr. B. R. Ambedkar Hall of Residence,Hall","place_type":["Dr. B. R. Ambedkar Hall of Residence,Hall"]}

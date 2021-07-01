@@ -1,0 +1,7 @@
+{"trajectory_day":"0","lat":"40.010010","lon":"116.323150","time_duration":"120","place_info":"Tsinghua University 23 Dormitory","place_type":["Tsinghua University 23 Dormitory, Apartment"]}
+{"trajectory_day":"0","lat":"40.008424,","lon":"116.322146","time_duration":"120","place_info":"Tsinghua University National","place_type":["Tsinghua University National, University"]}
+{"trajectory_day":"0","lat":"40.009094","lon":"116.323949","time_duration":"120","place_info":"Tsinghua University Building No. 29","place_type":["Tsinghua University Building No. 29, University"]}
+{"trajectory_day":"0","lat":"40.006935","lon":"116.323552","time_duration":"120","place_info":"Bank Of Beijing","place_type":["Bank Of Beijing"]}
+{"trajectory_day":"0","lat":"40.006881","lon":"116.321264","time_duration":"120","place_info":"Qing Qing Times Cafe","place_type":["Qing Qing Times Cafe, Food"]}
+{"trajectory_day":"0","lat":"40.006114","lon":"116.319712","time_duration":"120","place_info":"Department Of chemistry Tsinghua University","place_type":["Department Of chemistry Tsinghua University, Academics"]}
+{"trajectory_day":"0","lat":"40.009030","lon":"116.322951","time_duration":"120","place_info":"Tsinghua University 21 Dormitory","place_type":["Tsinghua University 21 Dormitory, Apartment"]}

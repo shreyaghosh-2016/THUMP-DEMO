@@ -1,0 +1,15 @@
+{"trajectory_day":"0","lat":"22.309511","lon":"87.309803","time_duration":"120","place_info":"Vikram Sarabhai Residencial Complex,Hall","place_type":["Vikram Sarabhai Residencial Complex,Hall"]}
+{"trajectory_day":"0","lat":"22.309422","lon":"87.309524","time_duration":"120","place_info":"Vikram Sarabhai Residencial Complex,Hall","place_type":["Vikram Sarabhai Residencial Complex,Hall"]}
+{"trajectory_day":"0","lat":"22.317273","lon":"87.312056","time_duration":"120","place_info":"Takshashila,"place_type":["Takshashila"]}
+{"trajectory_day":"0","lat":"22.317194","lon":"87.312054","time_duration":"120","place_info":"Takshashila,"place_type":["Takshashila"]}
+{"trajectory_day":"0","lat":"22.317642","lon":"87.309093","time_duration":"120","place_info":"Department of Computer Science and Engineering","place_type":["Department of Computer Science and Engineering"]}
+{"trajectory_day":"0","lat":"22.3094846","lon":"87.3108285","time_duration":"120","place_info":"Vikram Sarabhai Residencial Complex,Hall","place_type":["Vikram Sarabhai Residencial Complex,Hall"]}
+{"trajectory_day":"0","lat":"22.317228","lon":"87.312056","time_duration":"120","place_info":"Takshashila","place_type":["Takshashila"]}
+{"trajectory_day":"0","lat":"22.316682","lon":"87.311143","time_duration":"120","place_info":"Raos Canteen,Food","place_type":["Raos Canteen,Food"]}
+{"trajectory_day":"0","lat":"22.316682","lon":"87.311143","time_duration":"120","place_info":"Raos Canteen","place_type":["Raos Canteen,Food"]}
+{"trajectory_day":"0","lat":"22.317248","lon":"87.312150","time_duration":"120","place_info":"Takshashila","place_type":["Takshashila"]}
+{"trajectory_day":"0","lat":"22.313833","lon":"87.305700","time_duration":"120","place_info":"Dreamland Resturant, Food","place_type":["Dreamland Resturant, Food"]}
+{"trajectory_day":"0","lat":"22.313833","lon":"87.305700","time_duration":"120","place_info":"Dreamland Resturant, Food","place_type":["Dreamland Resturant, Food"]}
+{"trajectory_day":"0","lat":"22.3094846","lon":"87.3108285","time_duration":"120","place_info":"Vikram Sarabhai Residencial Complex,Hall","place_type":["Vikram Sarabhai Residencial Complex,Hall"]}
+
+

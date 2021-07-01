@@ -1,0 +1,12 @@
+{"trajectory_day":"0","lat":"22.3141128","lon":"87.3087022","time_duration":"120","place_info":"B:190-198,Apartment","place_type":["B:190-198,Apartment"]}
+{"trajectory_day":"0","lat":"22.317208","lon":"87.312023","time_duration":"120","place_info":"Takshashila,"place_type":["Takshashila"]}
+{"trajectory_day":"0","lat":"22.316682","lon":"87.311143","time_duration":"120","place_info":"Raos Canteen,Food","place_type":["Raos Canteen,Food"]}
+{"trajectory_day":"0","lat":"22.317219","lon":"87.312030","time_duration":"120","place_info":"School of Information Technology","place_type":["School of Information Technology"]}
+{"trajectory_day":"0","lat":"22.317296","lon":"87.312245","time_duration":"120","place_info":"Center of Education Technology","place_type":["Centre of Education Technology"]}
+{"trajectory_day":"0","lat":"22.317256","lon":"87.312017","time_duration":"120","place_info":"School of Information Technology","place_type":["School of Information Technology"]}
+{"trajectory_day":"0","lat":"22.317642","lon":"87.309093","time_duration":"120","place_info":"Department of Computer Science and Engineering","place_type":["Department of Computer Science and Engineering"]}
+{"trajectory_day":"0","lat":"22.317682","lon":"87.309173","time_duration":"120","place_info":"Department of Computer Science and Engineering","place_type":["Department of Computer Science and Engineering"]}
+{"trajectory_day":"0","lat":"22.3141128","lon":"87.3087022","time_duration":"120","place_info":"B:190-198,Apartment","place_type":["B:190-198,Apartment"]}
+{"trajectory_day":"0","lat":"22.317431","lon":"87.313695","time_duration":"120","place_info":"Department of Agriculture and Food","place_type":["Department of Agricultural and Food"]}
+{"trajectory_day":"0","lat":"22.317235","lon":"87.312080","time_duration":"120","place_info":"School of Information Technology","place_type":["School of Information Technology"]}
+{"trajectory_day":"0","lat":"22.3141128","lon":"87.3087022","time_duration":"120","place_info":"B:190-198,Apartment","place_type":["B:190-198,Apartment"]}
